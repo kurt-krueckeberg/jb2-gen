@@ -4,7 +4,7 @@ project:
   authors:
     - name: Kurt Krueckeberg
   copyright: '2026'
-  github: kurt-krueckeberg/sphinx-gen
+  github: kurt-krueckeberg/jb2-gen
   references:
     nla: https://nla.krueckeberg.org/
     ancestry: https://anc.krueckeberg.org/
