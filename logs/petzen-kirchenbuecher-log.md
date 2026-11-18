@@ -13,7 +13,7 @@
 
 ## Background
 
-We know by 1745 that no. 1 Berenbusch was the holder of [Jobst Henirch Weiland](xref:nla#2713/index).
+We know by 1745 that no. 1 Berenbusch was the holder of [Jobst Henirch Weiland](xref:nla/2713).
 
 ## Review of Petzen Baptisms 1700-1784
 

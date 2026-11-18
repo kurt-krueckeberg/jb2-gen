@@ -37,9 +37,14 @@ the full image in a new browser tab. It replaces the JB1 `clickable-images.js`.
 ## Links to other sites
 
 `{external+nla:doc}` and similar intersphinx roles became `xref:` links, for
-example `[on page 17](xref:nla#140/page-17)`. The sites are listed under
+example `[on page 17](xref:nla/140/page-17)`. The sites are listed under
 `project: references:` in `myst.yml`. `xref:` links work only when the target
 site is a MyST (JB2) site.
+
+A link to a page is `xref:SITE/PAGE-URL`, with a slash, where PAGE-URL is the
+page's URL path on that site. A folder's `index.md` page has the folder name as
+its URL, so `2713/index.md` is `xref:nla/2713`. The form `xref:SITE#NAME` is for
+labels, such as `(my-label)=`, not for pages.
 
 ## Requirements
 

@@ -38,14 +38,14 @@ earlier.
 Also the document **Namensverzeichnis sämtlicher Kolonen der Ämter Bückeburg
 und Arensburg, mit Nummerierung der sämtlichen Häuser ("List of names of
 all Kolons of the offices of Bückeburg and Arensburg, with numbering of the
-all houses")** shows, [on page 17](xref:nla#140/page-17), us that in 1747
+all houses")** shows, [on page 17](xref:nla/140/page-17), us that in 1747
 Johann Heinrich Krückeberg was the holder of no. 10 Berenbusch and Johann
 Tönnies Eggerding was a prior holder.
 
 Apparently Friedrich Kuhlman had been the immediate prior holder and Johann
 Tönnnis Eggerding the holder before him. We learn this from the answer of
 Johann Heinrich Krücekberg to question #1 at
-[Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744)](xref:nla#2741/index).
+[Records of the questioning of the individual rural property holders in Evesen, Berenbusch, Nordholz, and Rusbend in the context of the General Land Survey (land measurement). (1743-1744)](xref:nla/2741).
 ```
 
 ## Baptism Record

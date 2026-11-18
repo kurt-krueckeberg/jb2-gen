@@ -106,7 +106,7 @@ Page 245:
 The column **Name, Stand Religion u. Geburtsort des Vaters** (Name, Status, Religion and Birthplace of the Father)
 obviously has the current residence of the family. The family could not have been born at no. 18 Berenbusch
 because it did not exist until circa 1810, when Jobst Heinrich Krückeberg was granted tenancy rights to the
-new Stätte no. 18 Berenbusch. See [Document 1: Petition submitted by the tailor Krückeberg in Evesen](xref:nla#146/doc1).
+new Stätte no. 18 Berenbusch. See [Document 1: Petition submitted by the tailor Krückeberg in Evesen](xref:nla/146/doc1).
 ```
 
 ```{list-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
