@@ -1,0 +1,59 @@
+# 1704 Johann Tönnis Eggerding Marriage
+
+## Family and Other Relationships and Facts
+
+```{list-table} 15 October 1704 Marriage
+:header-rows: 1
+
+* - Groom
+  - Groom Residence
+  - Bride
+  - Bride Residence
+* - Johann Tönnies Eggerding
+  - uncertain
+  - Anna Catharina Eberding
+  - Petzen
+```
+
+## Record
+
+The 15 October 1704 marriage of Johann Tönnis Eggerding to Anna Catharina
+Eberding is on {ref}`image 27 <image27>`, the right-hand page, of the Petzen
+"Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+## Marriage Image
+
+```{figure} images/petzen-band1b-img27.png
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{div}
+:class: doc-text
+
+Johann Tönnies Eggerding aus D[e]k[h][?][ſ/f] und M. Anna Catharina
+Eberdings aus Petzen den 15. ten 8br. copuliret
+```
+
+Translation
+
+```{div}
+:class: doc-text
+
+Johann Tönnies Eggerding from D[e]k[h][?][ſ/f] and M. Anna Catharina
+Eberdings from Petzen married the 15ten October.
+```
+
+## Citation
+
+(image27)=
+
+"Archion Protestant Kirchenbücher Portal", database with
+images, *Archion* (<https://www.archion.de/p/e7c4ca518f/>: 26 Jan. 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 27 of 239
+

@@ -1,0 +1,61 @@
+# 1748 Anna Maria Weiland of Nordholtz Baptism
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Daughter
+  - Sponsors
+* - Wilhelm Weÿland 
+  - Nordholtz
+  - Anna Maria Weiland 
+  - wives of Brüggeman of Nordholtz, Nergen of P[?]etzen and Borman of Berenbusch
+```
+
+## Record
+
+The baptism of Anna Maria Weiland is on {ref}`image 176, right page, fourth entry <PET-B-1748a>` from the "Register of Baptism and Confirmed of the
+Petzen Parish, 1641-1784"
+
+```{figure} images/petzen-band1a-img176.jpg
+:class: image-override
+```
+
+```{note}
+**Pat** is the abbreviation for either:
+
+- **Pate** — sponsor (for either baptism or confirmation). Its plural form
+is **Paten**.
+- **Pater** — father
+
+In this entry, Pat clearly means Father since Gevattern (sponsors) immediately follows it.
+
+**Fr** in this entry is an abbreviation for **Frau** Since the child born is a daughter, her sponsors
+would be women.
+```
+
+1748 Baptism of Anna Maria Weiland
+
+```{div}
+:class: doc-text
+d 18ten Febr: Anna Maria Weilands getauft
+Pat. Wilhelm Weÿland zu Nordholtz, Gavattern
+Brüggemans Fr zu Nordholtz, Nergen Fr zu P[?]etzen
+und Bormans Frau aus Berenbusch
+```
+
+```{div}
+:class: doc-text
+On 18th Feb. Anna Maria Weilands was baptized
+Father Wilhelm Weÿland at Nordholtz, Sponsors[godmothers]
+Brüggeman Mrs at Nordholtz, Nergen Mrs at P[?]etzen
+and Bormans Mrs from Berenbusch
+```
+
+## Citation
+
+(PET-B-1748a)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* ([<https://www.archion.de/p/5d388eb41a/>](https://www.archion.de/p/5d388eb41a/) : 8 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 176 of 322
+

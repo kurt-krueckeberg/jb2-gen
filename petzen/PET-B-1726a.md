@@ -1,0 +1,47 @@
+# 1726 Annna Maria Elisabeth Bleek[e] Baptism
+
+## Record
+
+The baptism of Annna Maria Elisabeth Bleek[e] is on {ref}`image 132 <image136>`, right hand page, 5th entry from the top, of the "Verzeichnis der
+Getauften und Konfirmierten (Register of Baptism and Confirmed of the
+Petzen Parish) 1641-1784".
+
+## Baptism Image
+```{figure} images/petzen-band1a-img136.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{div}
+:class: doc-text
+den 1 Septembr. ist Heinrich Bleeck[e] aus Evesen Töchterlein Anna Maria
+Elisabeth getauft. Gev. Hans Herman Winsen , und Johann Br[aun]s Ehefrau
+aus Evesen Ehefrau
+```
+
+```{note}
+The last **Ehefrau**--if that is the correct word is smeared and
+appears intended to come after: "Hans Herman Winsen"?
+```
+
+Translationn
+
+```{div}
+:class: doc-text
+On  September 1 the daughter of Heinrich Bleeck[e] from Evesen,
+Anna Maria Elisabeth, was baptized. Godmothers: The wife of Hans Herman
+Winsen and the wife of Johann Br[aun]s from Evesen
+```
+
+## Citation
+
+(image136)=
+
+"Archion Protestant Kirchenbücher Portal", database with
+images, *Archion* ,(<https://www.archion.de/p/75745b577e/> : 19 May 2025)
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 136 of 322

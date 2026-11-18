@@ -1,0 +1,42 @@
+# 1723 Johann Daniel Bleeck Baptism
+
+## Record
+
+The baptism of Johann Daniel Bleeck is on {ref}`image 132 <image132>`, right
+hand page. of the "Verzeichnis der Getauften und Konfirmierten (Register of
+Baptism and Confirmed of the Petzen Parish) 1641-1784".
+
+## Baptism Record
+
+```{figure} images/petzen-band1a-img132.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{div}
+:class: doc-text
+31 d 24t[en] Octbr. ist Heinrich Bleeck aus Evesen Söhnlien\
+     Johann Daniel getauft gav. [dessen] Vater im Mei[ßen]
+```
+
+Translationn
+
+```{div}
+:class: doc-text
+31 The 224th October the little son of Heinrich Bleeck from Evesen\
+     baptized. godfather [his?] Father in Mei[ßen]
+```
+
+## Citation
+
+(image132)=
+
+"Archion Protestant Kirchenbücher Portal", database with
+images, *Archion* ,(<https://www.archion.de/p/8e090f5b1a/> : 15 May 2025)
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 132 of 322
+

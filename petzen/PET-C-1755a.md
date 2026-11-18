@@ -1,0 +1,57 @@
+# 1755 Sophie Maria Krückeberg Confirmation
+
+```{list-table} Confirmant Facts
+:header-rows: 1
+
+* - Name
+  - Confirmation Date
+  - Residence
+* - Sophie Maria Krückeberg
+  - 1755
+  - Bernbusch
+```
+
+## Confirmation Record 
+
+The confirmation is the penultimate entry on {ref}`image 313 <PET-C-1755a>`, on the left page
+(the pages are unnumbered) of the Petzen Kirchenbuch "Verzeichnis der Getauften und Konfirmierten
+1641-1784".
+
+```{note}
+No page numbers are written on these pages.
+```
+
+```{figure} images/petzen-band1a-img310-left.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration of last four entries on left-hand page
+
+```{div}
+:class: doc-text
+Anna Elisabeth Röseners Röcke\
+Sophie Maria Krückeberg aus Berenbusch\
+Charlotte Dieckmans (Einliegers) Röcke
+```
+
+Translation of last four entries on left-hand page
+
+```{div}
+:class: doc-text
+Anna Elisabeth Röseners Röcke\
+Sophie Maria Krückeberg from Berenbusch\
+Charlotte Dieckmans, daughter of an Einlieger, Röcke
+```
+
+## Citation
+
+(PET-C-1755a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/881666c669/>: 30 October
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 313 of 322
+

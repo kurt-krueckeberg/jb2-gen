@@ -1,0 +1,44 @@
+# 1718 Anna Ilhabe Bleeck Baptism
+
+## Record
+
+The baptism of Anna Ilhabe Bleeck is on {ref}`image 126 <image126>`, right-hand
+page, last entry, of the Petzen "Verzeichnis der Getauften und
+Konfirmierten 1641-1784".
+
+## Baptism Image
+```{figure} images/petzen-band1a-img126-bleeck.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{div}
+:class: doc-text
+23 Eodem ist Henirch Bleeck aus Evesen Töchterlein Anna Ilhabe getauft\
+Gev. Daniel Bruns, [uncertain: Heinrich?] Hartmans aus Evesen, [uncertain]\
+Bleeck aus Meißen Ehefrauens
+```
+
+Translation
+
+```{div}
+:class: doc-text
+23 On the same day [9th October] was Henirch Bleeck[e]'s daughter from Evesen Anna Ilhabe getauft
+Godmothers. wives of Daniel Bruns, [uncertain] Hartmans aus Evesen, [uncertain]
+Bleeck from Meißen.
+```
+
+## Citation
+
+(image126)=
+
+"Archion Protestant Kirchenbücher Portal", database with images,
+Archion (<https://www.archion.de/p/0034963201/> : 18 May 2025), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 126 of 322,
+right hand page, last entry.
+

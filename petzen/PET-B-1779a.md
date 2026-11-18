@@ -1,0 +1,58 @@
+# 1779 Sophia Margaretha Weiland of No. 20 Evesen Baptism
+
+## Family Relationship and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother
+  - Residence
+  - Sponsor
+* - Sophia Margaretha
+  - Friederich Wilhelm Weiland
+  - Anna Maria geb. Weiland 
+  - Evesen no. 20
+  - Catharine Margaretha Korfen
+```
+
+## Record
+
+Sophia Margaretha Weiland’s baptism is on {ref}`image 262, right page, entry no. 5 <PET-B-1779a>`
+from the "Verzeichnis der Getaufte und Confirmirte  (Register of Baptims and Confirmations),
+1641-1784"
+
+```{figure} images/petzen-band1a-img262-1779.jpg
+:class: image-override
+```
+
+## Transliteration 
+
+```{div}
+:class: doc-text
+
+5) 31ten Jan: ist getrafut Sophia Margaretha Weilands
+   des Friederich Wilhelm Weilands aus Evesen No 20
+   mit seiner Ehefrau Anna Maria geb. Weilands
+   erzeugte Tochter. Die Gevaterin war Catharine Margaretha Korfen aus Nammen
+```
+
+## Translation
+
+```{div}
+:class: doc-text
+5) 31th Jan: Sophia Margaretha was baptized, the begotten
+   daughter of Friederich Wilhelm Weilands from Evesen No 20
+   and his wife Anna Maria born Weiland.
+   The godmother was Catharine Korfen from Nammen.
+```
+
+## Citation
+
+(PET-B-1779a)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+([https://www.archion.de/p/986a664f61/](https://www.archion.de/p/986a664f61/) : 31 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten 1641-1784, image 262 of 322
+

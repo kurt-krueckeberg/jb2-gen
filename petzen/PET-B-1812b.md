@@ -1,0 +1,214 @@
+# 1812 Ernst Heinrich Weiland of  Baptism
+
+## Family and Other Information
+
+```{list-table} Birth Information
+:header-rows: 1
+
+* - Birthdate
+  - Baptism date
+  - Birthplace
+  - Birth Order
+* - 15 Dec. 1812
+  - 20 Dec. 1812
+  - #31 Röcke
+  - 4{sup}`th` child\
+    3{sup}`rd` son 
+```
+
+```{list-table} Parentage
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Occupation
+  - Mother
+* - Friedrich Wilhelm Weiland
+  - #31 Röcke
+  - Schuster at #31 Röcke
+  - Caroline Louise Lauen\
+    from Röcke
+```
+
+```{list-table} Baptism sponsors
+:header-rows: 1
+
+* - Name
+  - Residence
+* - Johann Tönnies Wöbking
+  - #4 Röcke
+```
+
+## Record
+
+The birth and baptism of Caroline Dorothee Krückeberg and Ernst Heinrich Weiland are on {ref}`image 125, pages 244 and 245 <PET-B-1812b>` of the Petzen Kirchenbuch: Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
+
+## Pages 244 and 245
+
+Overview:
+
+```{figure} images/petzen-band2-img125-overview.jpg
+:class: image-override
+```
+
+Page 244:
+
+```{figure} images/petzen-band2-img125-244.jpg
+:class: image-override
+```
+
+Page 245:
+
+```{figure} images/petzen-band2-img125-245.jpg
+:class: image-override
+```
+
+```{important}
+The date following the name of the father, his address and religion is apparently **18.4.79** (March 18, 1879)
+This seems to be the date of his death, and it is likely prefixed with **ges** for *getstorben(deceased)*.
+```
+
+```{flat-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
+:header-rows: 1
+:widths: 1 3 2 2 2 3 3 3 3
+
+* - Zahl
+  - Name des Kindes
+  - Zahl
+  - Geburtzeit
+    u. Geburtsort
+  - Taufzeit
+    u.
+    Taufort
+  - Name, Stand Religion
+    u. Geburts ort des Vaters
+  - Name, Religion
+    u. Geburtsort der
+    Mutter
+  - Wohnort
+    der
+    Eltern
+  - Taufzeugen
+* - 31
+  - Caroline Dorothee
+    Krückebergs
+    cop. 25.10.35
+    gest 14.12.69
+  - das 3ten Kind
+    u. 2ten Tochter
+  - ist geboren d.
+    2ten Decbr. morgens
+    5. Uhr in Bärenbusch
+  - u. wurde getaugt
+    d. 6ten Decbr. in der
+    Kirche zu Petzen
+  - Carl Friedrich Gottlieb
+    Krückeberg n. 18 in Bärenbusch
+    Luth. Conf. ge[?] 18.4.7.9
+  - Philippine Leonore
+    geb. Bleeken aus
+    n. 11 in Evesen, Luth Conf.
+  - wohnen
+    auf n. 18
+    in Bärenbusch
+  - Marie Dorothee Deerbergs aus
+    n. 6 und Caroline Charolitte
+    Sieckmeiern aus n. 4 in Evesen.
+* - 32
+  - Ernst Heinrich Weiland
+  - das 4ten Kind
+    u. 3ten Sohn
+  - ist geboren d. 15ten
+    Decbr. Morgens 2 Uhr
+    in Röcke
+  - u. wurde getaugt
+    d. 20. Decbr. in der
+    Kirche zu Petzen
+  - Friedrich Wilhelm
+    Weiland, Schuster auf n. 31
+    in Röcke, Luth. Conf.
+  - Caroline Louise
+    geb. Lauen aus Röcke
+    Luth Conf. N:18
+  - wohnen
+    auf n. 3[or: 31]
+    in Röcke
+  - Johann Tönnies Wöbking n. 4
+    in Röcke
+```
+
+```{flat-table} 244 Geboren im Kirchspiele Petzen (Births in the Parish of Petzen) im Jahr 1812 245
+:header-rows: 1
+:widths: 1 3 2 2 2 3 3 3 3
+
+* - Number
+  - Child’s Name
+  - Number
+  - Birth time
+    and Place
+  - Baptism Time
+    and
+    Place
+  - Name, Job, Religion
+    and Birth place of Father
+  - Name, Religion
+    and Birth Place of
+    Mother
+  - Residence
+    of
+    Parents
+  - Baptism Witnesses
+* - 31
+  - Caroline Dorothee
+    Krückeberg
+    marriage:. 10/25/35
+    death: 12/14/69
+  - the 3rd child
+    and 2nd daughter
+  - Born on
+    2nd Decbr. 5
+    in the morning in Bärenbusch
+  - and baptized
+    the 6th Decbr. in the
+    Church at Petzen
+  - Carl Friedrich Gottlieb
+    Krückeberg n. 18 in Bärenbusch
+    Luth. Conf. ge[?] 18.4.7.9
+  - Philippine Leonore
+    born Bleeke from
+    n. 11 in Evesen, Luth Conf.
+  - Living
+    at n. 18
+    in Bärenbusch
+  - Marie Dorothee Deerbergs from
+    n. 6 and Caroline Charolitte
+    Sieckmeiern from n. 4 in Evesen.
+* - 32
+  - Ernst Heinrich Weiland
+  - the 4th child
+    and 3rd son
+  - Born on
+    15th Decbr. 5
+    at 2 the morning in Röcke
+  - and baptized
+    the 20th Decbr. in the
+    Church at Petzen
+  - Friedrich Wilhelm
+    Weiland, cobbler from n. 31
+    in Röcke, Luth. Conf.
+  - Caroline Louise
+    born Lauen from Röcke
+    Luth Conf. N:18
+  - Living
+    at n. 3[or: 31]
+    in Röcke
+  - Johann Tönnies Wöbking n. 4
+    in Röcke
+```
+
+## Citation
+
+(PET-B-1812b)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion* (<https://www.archion.de/p/466353a0e4/> : 10 October 2023), path: Niedersachsen > Niedersächsisches Landesarchiv  Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827 > Image 125 of 357
+

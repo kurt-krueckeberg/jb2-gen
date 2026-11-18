@@ -1,0 +1,50 @@
+# 1754 Anna Ilsabey (Elisabeth) Möller Confirmation
+
+## Record
+
+The confirmation of Anna Ilsabey (Elisabeth) Möller is on
+{ref}`image 309 <PET-C-1754a>` of the Petzen "Verzeichnis der Getauften und
+Konfirmierten 1641-1784" on [Archion.de](https://archion.de).
+
+## Confirmation Image
+```{figure} images/petzen-band1a-img309.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{div}
+:class: doc-text
+Anna Ilsabey Möllers aus Peetzen
+Anna Ilse Margaretha Mönchhofs Pichtsmeiers Evesen.
+Philippina Maria Hofs aus Röcke
+```
+
+Translation
+
+```{div}
+:class: doc-text
+Anna Ilsabey (Elisabeth) Möllers from Peetzen
+Anna Ilse Margaretha Mönchhof, Pichtsmeier [house], Evesen
+Philippina Maria Hofs aus Röcke
+```
+
+```{note}
+- **Ilsabey** is a **regional, phonetic compound form of Elisabeth**
+(Ilsa/Ilse + reduced -beth → -bey / -beÿ).
+- **Ilse** and **Ilsa** are **shortened forms derived from the first element of
+Ilsabey.**
+```
+
+## Citation
+
+(PET-C-1754a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/a826667c20/> : 2 Feburary
+2026), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten 1641-1784, image 309 of 322
+

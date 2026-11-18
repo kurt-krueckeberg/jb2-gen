@@ -1,0 +1,54 @@
+# 1679 son of Wolter Weilandt of Peeten Buried
+
+## Family Relationships
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Age of son
+* - Wolter Weiland
+  - 16 weeks
+```
+
+## Record
+
+The 18 June 1679 burial of Son of Wolter Weilandt from Peeten is on {ref}`image 99 <PET-D-1679a>`
+of the Petzen *Verzeichnis der Getrauten und Gestorbenen 1641-1784*.
+
+```{figure} images/petzen-band1b-img99.png
+:class: image-override
+```
+
+## Transliteration
+
+```{important}
+The dates are Julian dates. They are therefore 10 days earlier than our
+current calendar. Schaumburg-Lippe adopted the Gregorian calendar in 1700,
+when February 18, 1700, was followed my March 1, 1700, skipping the dates
+of February 19 through February 28.
+```
+
+```{div}
+:class: doc-text
+Wolter Weilandt zu Peeten, Sohn, 16 Wochen alt den
+18 Junÿ begraben.
+```
+
+## Translation
+
+```{div}
+:class: doc-text
+Wolter Weilandt of Peeten, son, 16 weeeks old, buried 18 June.
+```
+
+## Citation
+
+(PET-D-1679a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/6999444183/> : 6 August 2026),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen 1641-1784, image 99 of 239
+

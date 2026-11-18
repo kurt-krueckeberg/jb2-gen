@@ -1,0 +1,571 @@
+version: 1
+project:
+  title: Church Records
+  authors:
+    - name: Kurt Krueckeberg
+  copyright: '2026'
+  github: kurt-krueckeberg/sphinx-gen
+  references:
+    nla: https://nla.krueckeberg.org/
+    ancestry: https://anc.krueckeberg.org/
+    imm: https://imm.krueckeberg.org/
+    immanuel: https://imm.krueckeberg.org/
+  plugins:
+    - flat-table.mjs
+    - link-images.mjs
+  exclude:
+    - README.md
+    - todo.md
+    - code/**
+    - vps-build/**
+  exports:
+    - format: typst
+      template: plain_typst_book
+      output: exports/book.pdf
+      id: book-pdf
+  toc:
+    - file: root/index.md
+    - file: church-records/index.md
+      title: Original Church Records
+      children:
+        - file: logs/petzen-kirchenbuecher-log.md
+        - file: root/nachträge.md
+          children:
+            - file: root/significance-of-nachträge.md
+        - file: calendar/1700-calendar-switch.md
+        - file: petzen/becker.md
+          children:
+            - file: petzen/PET-B-1677a.md
+        - file: bleeke/bleeke-church-records.md
+          children:
+            - file: frille/FRI-B-1739a.md
+            - file: frille/FRI-B-1760a.md
+            - file: frille/FRI-B-1767a.md
+            - file: frille/FRI-M-1792a.md
+            - file: frille/FRI-M-1793a.md
+            - file: frille/FRI-B-1794a.md
+            - file: frille/FRI-D-1795a.md
+            - file: frille/FRI-B-1797a.md
+            - file: frille/FRI-D-1800a.md
+            - file: frille/FRI-B-1800a.md
+            - file: frille/FRI-B-1804a.md
+            - file: frille/FRI-M-1820a.md
+            - file: frille/FRI-M-1820b.md
+            - file: frille/FRI-M-1826a.md
+            - file: frille/carl-f-bleeke-children.md
+              title: Carl Friedrich Bleeke's (1794) Children
+              children:
+                - file: frille/FRI-B-1820a.md
+                - file: frille/FRI-B-1823a.md
+                - file: frille/FRI-B-1826a.md
+                - file: frille/FRI-B-1828a.md
+                - file: frille/FRI-B-1830a.md
+                - file: frille/FRI-B-1833a.md
+                - file: frille/FRI-B-1835a.md
+                - file: >-
+                    german-evangelical-lutheran-and-reformed-church/CIN-B-1837b.md
+            - file: frille/jhp-children.md
+              title: Johann Heinrich Philipp Bleeke's (1797) Children
+              children:
+                - file: frille/FRI-B-1818a.md
+                - file: frille/FRI-B-1821a.md
+                - file: frille/FRI-B-1823b.md
+                - file: frille/FRI-B-1825a.md
+                - file: frille/FRI-D-1825a.md
+                - file: frille/FRI-B-1828b.md
+                - file: frille/FRI-B-1831a.md
+                - file: frille/FRI-B-1833c.md
+                - file: >-
+                    german-evangelical-lutheran-and-reformed-church/CIN-B-1837a.md
+                - file: >-
+                    german-evangelical-lutheran-and-reformed-church/CIN-B-1840a.md
+            - file: frille/christian-f-bleeke-children.md
+              title: Christian Friedrich Bleeke's (1800) Children
+              children:
+                - file: frille/FRI-B-1827a.md
+                - file: frille/FRI-B-1830b.md
+                - file: frille/FRI-B-1833b.md
+                - file: frille/FRI-B-1836a.md
+                - file: frille/FRI-B-1839a.md
+                - file: frille/FRI-B-1841a.md
+                - file: frille/FRI-B-1843a.md
+        - file: petzen/petzen-blecken.md
+          children:
+            - file: petzen/PET-B-1710a.md
+            - file: petzen/PET-B-1712a.md
+            - file: petzen/PET-B-1713a.md
+            - file: petzen/PET-B-1716a.md
+            - file: petzen/PET-B-1718a.md
+            - file: petzen/PET-B-1721a.md
+            - file: petzen/PET-B-1723a.md
+            - file: petzen/PET-B-1726a.md
+            - file: petzen/PET-B-1730a.md
+            - file: petzen/PET-B-1730b.md
+            - file: petzen/PET-B-1746a.md
+            - file: petzen/PET-B-1755a.md
+            - file: petzen/PET-C-1760a.md
+            - file: petzen/PET-M-1770a.md
+            - file: petzen/PET-B-1770c.md
+            - file: petzen/PET-B-1773a.md
+            - file: petzen/PET-B-1775a.md
+            - file: petzen/PET-B-1775c.md
+            - file: petzen/PET-B-1776b.md
+            - file: petzen/PET-B-1778b.md
+            - file: petzen/PET-D-1779a.md
+        - file: windheim/buuck.md
+          children:
+            - file: windheim/WIND-B-1831a.md
+            - file: windheim/WIND-B-1833a.md
+            - file: windheim/WIND-B-1836a.md
+        - file: kleinenbremen/drinkuth.md
+          children:
+            - file: kleinenbremen/KLE-B-1778a.md
+        - file: petzen/eggerding.md
+          children:
+            - file: petzen/PET-M-1704a.md
+        - file: petzen/kuhlmann.md
+          children:
+            - file: petzen/PET-B-1679a.md
+        - file: buchholz/kleinschmidt.md
+          children:
+            - file: buchholz/BUC-B-1804a.md
+        - file: petzen/krückeberg.md
+          children:
+            - file: petzen/PET-B-1696a.md
+            - file: petzen/PET-M-1727a.md
+            - file: petzen/PET-B-1728a.md
+            - file: petzen/PET-B-1731a.md
+            - file: petzen/PET-B-1733a.md
+            - file: petzen/PET-D-1734a.md
+            - file: petzen/PET-B-1736a.md
+            - file: petzen/PET-B-1739a.md
+            - file: petzen/PET-D-1741a.md
+            - file: petzen/PET-D-1741b.md
+            - file: petzen/PET-B-1741a.md
+            - file: petzen/PET-D-1742a.md
+            - file: petzen/PET-B-1744a.md
+            - file: petzen/PET-B-1746b.md
+            - file: petzen/PET-D-1747a.md
+            - file: petzen/PET-B-1750a.md
+            - file: petzen/PET-C-1755a.md
+            - file: petzen/PET-D-1757a.md
+            - file: petzen/PET-C-1757a.md
+            - file: petzen/PET-D-1757b.md
+            - file: petzen/PET-M-1758a.md
+            - file: petzen/PET-B-1759a.md
+            - file: petzen/PET-D-1759a.md
+            - file: petzen/PET-M-1761a.md
+            - file: petzen/PET-C-1764a.md
+            - file: petzen/PET-B-1765c.md
+            - file: petzen/PET-B-1767a.md
+            - file: petzen/PET-D-1771a.md
+            - file: petzen/PET-D-1773a.md
+            - file: petzen/PET-D-1773b.md
+            - file: petzen/PET-M-1773a.md
+            - file: petzen/PET-B-1775b.md
+            - file: petzen/PET-C-1778a.md
+            - file: petzen/PET-B-1779b.md
+            - file: petzen/PET-C-1781a.md
+            - file: petzen/PET-B-1782a.md
+            - file: petzen/PET-C-1789a.md
+            - file: petzen/PET-M-1790a.md
+            - file: petzen/PET-M-1790c.md
+            - file: petzen/PET-B-1791a.md
+            - file: petzen/PET-C-1792a.md
+            - file: petzen/PET-B-1792a.md
+            - file: petzen/PET-B-1793a.md
+            - file: petzen/PET-D-1794a.md
+            - file: petzen/PET-M-1794a.md
+            - file: petzen/PET-C-1795a.md
+            - file: petzen/PET-B-1798a.md
+            - file: petzen/PET-B-1798b.md
+            - file: petzen/PET-D-1801a.md
+            - file: petzen/PET-M-1802b.md
+            - file: petzen/PET-M-1803a.md
+            - file: petzen/PET-B-1803a.md
+            - file: petzen/PET-B-1803b.md
+            - file: petzen/PET-B-1803c.md
+            - file: petzen/PET-C-1805a.md
+            - file: petzen/PET-D-1805a.md
+            - file: petzen/PET-C-1806a.md
+            - file: petzen/PET-B-1806a.md
+            - file: petzen/PET-B-1807a.md
+            - file: petzen/PET-C-1811a.md
+            - file: petzen/PET-C-1811b.md
+            - file: petzen/PET-B-1812a.md
+            - file: petzen/PET-M-1812b.md
+            - file: petzen/PET-M-1812a.md
+            - file: petzen/PET-C-1816a.md
+            - file: petzen/PET-M-1816a.md
+            - file: petzen/PET-C-1817a.md
+            - file: petzen/PET-C-1817b.md
+            - file: petzen/PET-D-1819a.md
+            - file: petzen/PET-C-1820a.md
+            - file: petzen/PET-C-1821a.md
+            - file: petzen/PET-D-1822a.md
+            - file: petzen/PET-D-1822b.md
+            - file: petzen/PET-M-1822a.md
+            - file: petzen/PET-M-1826a.md
+            - file: frille/FRI-M-1833a.md
+        - file: wallensen/krückeberg.md
+          title: Krückeberg (Söst/Immanuel)
+          children:
+            - file: wallensen/WAL-B-1822a.md
+        - file: petzen/möller.md
+          children:
+            - file: petzen/PET-B-1741c.md
+            - file: petzen/PET-C-1754a.md
+            - file: petzen/PET-M-1770a-link.md
+            - file: petzen/PET-M-1780a-link.md
+            - file: petzen/PET-D-1814a-link.md
+        - file: frille/schäkel.md
+          children:
+            - file: frille/FRI-B-1742a.md
+        - file: petzen/schwier.md
+          children:
+            - file: frille/FRI-B-1798a.md
+        - file: frille/vahlsing.md
+          children:
+            - file: frille/FRI-B-1694a.md
+            - file: frille/FRI-D-1757a.md
+        - file: petzen/vahlsing.md
+          children:
+            - file: petzen/PET-M-1700a.md
+            - file: petzen/PET-B-1701a.md
+            - file: petzen/PET-B-1703a.md
+            - file: petzen/PET-B-1706a.md
+            - file: petzen/PET-B-1709a.md
+            - file: petzen/PET-B-1712b.md
+            - file: petzen/PET-C-1713a.md
+            - file: petzen/PET-C-1716a.md
+            - file: petzen/PET-B-1716b.md
+            - file: petzen/PET-B-1720a.md
+            - file: petzen/PET-D-1725b.md
+            - file: petzen/PET-D-1725c.md
+            - file: petzen/PET-M-1728a.md
+            - file: petzen/PET-D-1731a.md
+            - file: petzen/PET-B-1731b.md
+            - file: petzen/PET-B-1732a.md
+            - file: petzen/PET-C-1746a.md
+            - file: petzen/PET-B-1747a.md
+            - file: petzen/PET-C-1749a.md
+            - file: petzen/PET-C-1758a.md
+            - file: petzen/PET-C-1760b.md
+            - file: petzen/PET-C-1782a.md
+        - file: wiedensahl/vahlsing.md
+          children:
+            - file: wiedensahl/WIED-B-1670a.md
+        - file: petzen/vogt.md
+          children:
+            - file: petzen/PET-M-1812d.md
+        - file: petzen/werkmeister.md
+          children:
+            - file: petzen/PET-M-1780a.md
+            - file: petzen/PET-B-1783c.md
+            - file: petzen/PET-D-1798a.md
+            - file: petzen/PET-D-1814a.md
+        - file: petzen/weiland.md
+          children:
+            - file: petzen/PET-B-1648a.md
+            - file: petzen/PET-D-1650a.md
+            - file: petzen/PET-B-1651a.md
+            - file: petzen/PET-D-1674a.md
+            - file: petzen/PET-M-1675a.md
+            - file: petzen/PET-D-1676a.md
+            - file: petzen/PET-B-1676a.md
+            - file: petzen/PET-D-1678a.md
+            - file: petzen/PET-B-1678a.md
+            - file: petzen/PET-D-1679a.md
+            - file: petzen/PET-B-1679b.md
+            - file: petzen/PET-B-1680a.md
+            - file: petzen/PET-D-1683a.md
+            - file: petzen/PET-B-1684a.md
+            - file: petzen/PET-M-1687a.md
+            - file: petzen/PET-D-1688a.md
+            - file: petzen/PET-D-1693a.md
+            - file: petzen/PET-D-1694a.md
+            - file: petzen/PET-D-1697a.md
+            - file: petzen/PET-B-1699a.md
+            - file: petzen/PET-B-1702a.md
+            - file: petzen/PET-M-1702a.md
+            - file: petzen/PET-B-1705a.md
+            - file: petzen/PET-D-1706a.md
+            - file: petzen/PET-C-1707a.md
+            - file: petzen/PET-B-1708a.md
+            - file: petzen/PET-M-1708a.md
+            - file: petzen/PET-B-1710b.md
+            - file: petzen/PET-B-1711a.md
+            - file: petzen/PET-C-1711a.md
+            - file: petzen/PET-D-1711a.md
+            - file: petzen/PET-C-1711b.md
+            - file: petzen/PET-M-1712a.md
+            - file: petzen/PET-D-1712a.md
+            - file: petzen/PET-B-1714a.md
+            - file: petzen/PET-B-1715a.md
+            - file: petzen/PET-C-1716b.md
+            - file: petzen/PET-D-1717a.md
+            - file: petzen/PET-B-1718b.md
+            - file: petzen/PET-D-1718a.md
+            - file: petzen/PET-B-1718c.md
+            - file: petzen/PET-M-1718a.md
+            - file: petzen/PET-M-1720a.md
+            - file: petzen/PET-B-1723b.md
+            - file: petzen/PET-M-1723a.md
+            - file: petzen/PET-D-1725a.md
+            - file: petzen/PET-D-1727a.md
+            - file: petzen/PET-D-1728a.md
+            - file: petzen/PET-M-1728b.md
+            - file: petzen/PET-B-1729a.md
+            - file: petzen/PET-M-1730a.md
+            - file: petzen/PET-B-1730c.md
+            - file: petzen/PET-B-1731c.md
+            - file: petzen/PET-M-1731a.md
+            - file: petzen/PET-B-1732b.md
+            - file: petzen/PET-B-1732c.md
+            - file: petzen/PET-B-1732d.md
+            - file: petzen/PET-M-1734a.md
+            - file: petzen/PET-D-1735a.md
+            - file: petzen/PET-B-1736b.md
+            - file: petzen/PET-C-1736a.md
+            - file: petzen/PET-B-1737a.md
+            - file: petzen/PET-M-1737a.md
+            - file: petzen/PET-C-1737a.md
+            - file: petzen/PET-B-1738a.md
+            - file: petzen/PET-B-1738b.md
+            - file: petzen/PET-B-1740a.md
+            - file: petzen/PET-B-1740b.md
+            - file: petzen/PET-C-1740a.md
+            - file: petzen/PET-B-1741b.md
+            - file: petzen/PET-D-1741c.md
+            - file: petzen/PET-C-1743a.md
+            - file: petzen/PET-B-1744b.md
+            - file: petzen/PET-M-1745a.md
+            - file: petzen/PET-B-1745a.md
+            - file: petzen/PET-B-1745b.md
+            - file: petzen/PET-M-1745b.md
+            - file: petzen/PET-D-1745a.md
+            - file: petzen/PET-C-1745a.md
+            - file: petzen/PET-C-1746b.md
+            - file: petzen/PET-M-1746a.md
+            - file: petzen/PET-M-1746b.md
+            - file: petzen/PET-D-1746a.md
+            - file: petzen/PET-B-1747b.md
+            - file: petzen/PET-B-1747c.md
+            - file: petzen/PET-D-1747b.md
+            - file: petzen/PET-D-1747c.md
+            - file: petzen/PET-D-1747d.md
+            - file: petzen/PET-B-1748a.md
+            - file: petzen/PET-M-1748a.md
+            - file: petzen/PET-D-1748a.md
+            - file: petzen/PET-C-1748a.md
+            - file: petzen/PET-M-1749a.md
+            - file: petzen/PET-B-1749a.md
+            - file: petzen/PET-B-1749b.md
+            - file: petzen/PET-B-1750b.md
+            - file: petzen/PET-C-1750a.md
+            - file: petzen/PET-B-1751a.md
+            - file: petzen/PET-D-1751a.md
+            - file: petzen/PET-D-1751b.md
+            - file: petzen/PET-C-1751a.md
+            - file: petzen/PET-D-1752a.md
+            - file: petzen/PET-M-1753a.md
+            - file: petzen/PET-B-1753a.md
+            - file: petzen/PET-M-1753b.md
+            - file: petzen/PET-B-1753b.md
+            - file: petzen/PET-M-1753c.md
+            - file: petzen/PET-C-1753a.md
+            - file: petzen/PET-C-1753b.md
+            - file: petzen/PET-B-1754a.md
+            - file: petzen/PET-B-1754b.md
+            - file: petzen/PET-C-1754b.md
+            - file: petzen/PET-B-1755c.md
+            - file: petzen/PET-B-1756a.md
+            - file: petzen/PET-B-1756b.md
+            - file: petzen/PET-D-1756a.md
+            - file: petzen/PET-C-1757b.md
+            - file: petzen/PET-B-1758a.md
+            - file: petzen/PET-D-1758a.md
+            - file: petzen/PET-D-1759b.md
+            - file: petzen/PET-B-1760a.md
+            - file: petzen/PET-B-1760c.md
+            - file: petzen/PET-D-1760a.md
+            - file: petzen/PET-C-1760c.md
+            - file: petzen/PET-D-1761a.md
+            - file: petzen/PET-M-1761b.md
+            - file: petzen/PET-D-1761b.md
+            - file: petzen/PET-D-1761c.md
+            - file: petzen/PET-D-1761d.md
+            - file: petzen/PET-B-1762a.md
+            - file: petzen/PET-M-1763a.md
+            - file: petzen/PET-C-1763a.md
+            - file: petzen/PET-B-1764a.md
+            - file: petzen/PET-B-1764b.md
+            - file: petzen/PET-D-1764a.md
+            - file: petzen/PET-D-1764b.md
+            - file: petzen/PET-D-1764c.md
+            - file: petzen/PET-C-1764b.md
+            - file: petzen/PET-B-1765a.md
+            - file: petzen/PET-B-1765b.md
+            - file: petzen/PET-B-1765d.md
+            - file: petzen/PET-M-1765a.md
+            - file: petzen/PET-C-1766a.md
+            - file: petzen/PET-D-1767a.md
+            - file: petzen/PET-D-1767b.md
+            - file: petzen/PET-D-1767c.md
+            - file: petzen/PET-C-1767a.md
+            - file: petzen/PET-B-1768a.md
+            - file: petzen/PET-C-1768a.md
+            - file: petzen/PET-D-1768a.md
+            - file: petzen/PET-M-1769a.md
+            - file: petzen/PET-D-1769a.md
+            - file: petzen/PET-C-1769a.md
+            - file: petzen/PET-C-1769b.md
+            - file: petzen/PET-B-1770a.md
+            - file: petzen/PET-B-1770b.md
+            - file: petzen/PET-B-1770d.md
+            - file: petzen/PET-B-1770e.md
+            - file: petzen/PET-M-1770b.md
+            - file: petzen/PET-D-1770a.md
+            - file: petzen/PET-D-1770b.md
+            - file: petzen/PET-D-1770c.md
+            - file: petzen/PET-B-1771a.md
+            - file: petzen/PET-D-1771b.md
+            - file: petzen/PET-D-1771c.md
+            - file: petzen/PET-B-1772a.md
+            - file: petzen/PET-B-1772b.md
+            - file: petzen/PET-D-1772a.md
+            - file: petzen/PET-C-1772a.md
+            - file: petzen/PET-B-1773b.md
+            - file: petzen/PET-D-1773c.md
+            - file: petzen/PET-D-1773d.md
+            - file: petzen/PET-D-1773e.md
+            - file: petzen/PET-M-1774a.md
+            - file: petzen/PET-B-1774a.md
+            - file: petzen/PET-C-1774a.md
+            - file: petzen/PET-C-1774b.md
+            - file: petzen/PET-B-1775d.md
+            - file: petzen/PET-D-1775a.md
+            - file: petzen/PET-D-1775b.md
+            - file: petzen/PET-M-1776a.md
+            - file: petzen/PET-B-1776a.md
+            - file: petzen/PET-B-1777a.md
+            - file: petzen/PET-B-1777b.md
+            - file: petzen/PET-C-1777a.md
+            - file: petzen/PET-B-1778a.md
+            - file: petzen/PET-B-1778c.md
+            - file: petzen/PET-D-1778a.md
+            - file: petzen/PET-D-1778b.md
+            - file: petzen/PET-B-1779a.md
+            - file: petzen/PET-M-1779a.md
+            - file: petzen/PET-D-1779b.md
+            - file: petzen/PET-D-1779c.md
+            - file: petzen/PET-D-1779d.md
+            - file: petzen/PET-D-1779e.md
+            - file: petzen/PET-C-1779a.md
+            - file: petzen/PET-B-1780a.md
+            - file: petzen/PET-B-1781a.md
+            - file: petzen/PET-B-1781b.md
+            - file: petzen/PET-M-1781a.md
+            - file: petzen/PET-B-1782b.md
+            - file: petzen/PET-D-1782a.md
+            - file: petzen/PET-B-1783a.md
+            - file: petzen/PET-B-1783b.md
+            - file: petzen/PET-B-1783d.md
+            - file: petzen/PET-C-1783a.md
+            - file: petzen/PET-B-1784a.md
+            - file: petzen/PET-M-1784a.md
+            - file: petzen/PET-B-1784b.md
+            - file: petzen/PET-D-1784a.md
+            - file: petzen/PET-D-1784b.md
+            - file: petzen/PET-D-1784c.md
+            - file: petzen/PET-C-1784a.md
+            - file: petzen/PET-M-1785a.md
+            - file: petzen/PET-B-1785a.md
+            - file: petzen/PET-B-1785b.md
+            - file: petzen/PET-B-1789a.md
+            - file: petzen/PET-B-1789b.md
+            - file: petzen/PET-B-1789c.md
+            - file: petzen/PET-B-1790b.md
+            - file: petzen/PET-M-1790b.md
+            - file: petzen/PET-M-1790d.md
+            - file: petzen/PET-B-1790a.md
+            - file: petzen/PET-C-1790a.md
+            - file: petzen/PET-M-1790e.md
+            - file: petzen/PET-M-1802a.md
+            - file: petzen/PET-M-1804a.md
+            - file: petzen/PET-M-1804b.md
+            - file: petzen/PET-B-1805a.md
+            - file: petzen/PET-D-1806a.md
+            - file: petzen/PET-D-1806b.md
+            - file: petzen/PET-M-1808a.md
+            - file: petzen/PET-B-1808a.md
+            - file: petzen/PET-B-1809a.md
+            - file: petzen/PET-B-1811a.md
+            - file: petzen/PET-M-1811a.md
+            - file: petzen/PET-B-1812b.md
+            - file: petzen/PET-M-1812c.md
+            - file: petzen/PET-B-1815a.md
+            - file: petzen/PET-B-1815b.md
+            - file: petzen/PET-B-1819a.md
+        - file: petzen/weiland-family-groups/index.md
+          title: Prospective Weiland Family Groups
+          children:
+            - file: petzen/weiland-family-groups/1648-hans.md
+            - file: petzen/weiland-family-groups/1675-wolter.md
+            - file: petzen/weiland-family-groups/1687-hans-evesen.md
+            - file: petzen/weiland-family-groups/1702-hans-hinrich.md
+            - file: petzen/weiland-family-groups/1708-johan-toennis.md
+            - file: petzen/weiland-family-groups/1720-herman-henrich-sr.md
+            - file: petzen/weiland-family-groups/1723-hans-henrich-evesen.md
+            - file: petzen/weiland-family-groups/1730-hans-hermann.md
+            - file: petzen/weiland-family-groups/1731-jobst-henrich.md
+            - file: petzen/weiland-family-groups/1734-johann-friderich.md
+            - file: petzen/weiland-family-groups/1737-johann-friderich-wilhelm.md
+            - file: petzen/weiland-family-groups/1745-henrich.md
+            - file: petzen/weiland-family-groups/1746-herman-henrich-jr.md
+            - file: petzen/weiland-family-groups/1748-johann-henrich-nammen.md
+            - file: petzen/weiland-family-groups/1749-johann-herman.md
+            - file: petzen/weiland-family-groups/1753-heinrich-ludowig-sr.md
+            - file: petzen/weiland-family-groups/1753-jobst-henrich-jr.md
+            - file: petzen/weiland-family-groups/1761-friedrich-wilhelm-no20.md
+            - file: petzen/weiland-family-groups/1770-johann-christian.md
+            - file: petzen/weiland-family-groups/1774-johann-heinrich-wilhelm.md
+            - file: petzen/weiland-family-groups/1776-johann-heinrich-no21.md
+            - file: petzen/weiland-family-groups/1781-heinrich-ludowig-jr.md
+            - file: petzen/weiland-family-groups/1785-friedrich-wilhelm-watermann.md
+            - file: petzen/weiland-family-groups/1789-jobst-heinrich.md
+            - file: petzen/weiland-family-groups/1790-jobst-heinrich-berenbusch.md
+            - file: petzen/weiland-family-groups/1802-albrecht.md
+            - file: petzen/weiland-family-groups/1804-friedrich-wilhelm-drinkuth.md
+            - file: petzen/weiland-family-groups/1804-friedrich-wilhelm-lauen.md
+        - file: petzen/wilharm.md
+          children:
+            - file: petzen/PET-B-1760b.md
+            - file: petzen/PET-M-1796a.md
+            - file: petzen/PET-B-1797a.md
+            - file: petzen/PET-D-1797a.md
+            - file: petzen/PET-M-1797a.md
+            - file: petzen/PET-B-1798c.md
+            - file: petzen/PET-B-1810a.md
+    - file: derived-church-records/index.md
+      title: Derived Church Records
+      children:
+        - file: derived-church-records/FS-CFK.md
+    - file: records/index.md
+      title: Civil, Land, Tax, and Emigration Records
+      children:
+        - file: records/emigration/jhk-aug-25-1849-emigration-notice.md
+        - file: records/emigration/wilhelm-weiland-aug-25-1849-emigration-notice.md
+    - file: next-todo/index.md
+      title: Next Research Plans
+      children:
+        - file: next-todo/weiland-cluster-research.md
+        - file: next-todo/weiland-family-group-sheets.md
+        - file: next-todo/jfweiland-married-1769-questions.md
+site:
+  options:
+    folders: true
+    style: _static/overrides.css
+    logo: _static/light-krueckeberg-genealogy.svg
+    logo_dark: _static/dark-krueckeberg-genealogy.svg
+  template: book-theme

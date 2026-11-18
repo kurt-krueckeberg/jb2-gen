@@ -1,0 +1,22 @@
+# %year% %name% of %residence% %uevent%
+
+## Record
+
+The %edate% %event% of %name% from %residence% is on {ref}`image %image_no% <%file_name%>` of the Petzen *%volume_name%*.
+
+%imageblock%
+
+## Transliteration
+
+```{div} doc-text
+%literal%
+```
+
+%text%
+
+## Translation
+
+```{div} doc-text
+%trans%
+```
+

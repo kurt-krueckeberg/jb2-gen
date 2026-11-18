@@ -1,0 +1,105 @@
+# 1835 Christine Friederike Marie Leonore Bleeke Birth
+
+This record is from the
+[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1831-1845](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_0248b6a4-ed8c-41ef-8e2b-f61ac1448763).
+
+```{figure} images/carl-f-bleeke/christine-friederike-marie-leonore-bleeke-1835-birth.png
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration of page header: **Geborene und Getaufte im Jarhe 1835**.
+
+Translation of page header: **Births and Baptims in 1835**.
+
+```{list-table} Transliteration of Christine Friederike Marie Leonore Bleeke 1835 Birth
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
+    der Geburt
+    in
+    Buchstaben und Ziffern.
+  - Ob es
+    ehelich
+    oder
+    unehelich.
+  - Vor- and Zuname
+    des Vaters,
+    auch Stand desselben
+  - Vor- und Zuname
+    der
+    Mutter.
+  - Wohnort
+    der
+    Eltern
+  - Tag
+    der
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
+* - 8
+  - Christine Friedrike
+    Marie Leonoe Blee-
+    ke
+  - Zwanzigsten (20) Febru-
+    ar Abds sieben (7)
+    Uhr in Leeteln
+  - Ehelich
+  - Carl Friedrich Blee-
+    ke Col. v. No. 13
+    in Leeteln
+  - Marie Luise geb.
+    Niemann aus
+    Todtenhasuen
+  - Leeteln
+  - Einsten (1)
+    März
+  - Schütz
+  - Friederike Wehmeÿer
+    Maire Siemon
+    Leonore Meÿer
+    Leonore v. Behrend
+```
+
+```{list-table} Translation of Christine Friederike Marie Leonore Bleeke 1835 Birth
+:header-rows: 1
+
+* - Num.
+  - Baptism Name of the child.
+  - Day and Hour of the Birth (in words and numbers).
+  - Whether it is legitimate or illegitimate
+  - Given and Surname of the Father, and his Status.
+  - Given and Surname of the Mother.
+  - Dwelling Place of the Parents
+  - Baptism Day
+  - Name of the Pastor who baptized child.
+  - Baptismal Sponsors
+* - 8
+  - Christine Friedrike Marie Leonoe Bleeke
+  - Zwanzigsten (20) Frebruary seven (7) p.m. in Leeteln
+  - legitimate
+  - Carl Friedrich Bleeke Colon of No. 13 in Leeteln
+  - Marie Luise geb. Niemann from Todtenhasuen
+  - Leeteln
+  - first (1) March
+  - Schütz
+  - Friederike Wehmeÿer
+    Maire Siemon
+    Leonore Meÿer
+    Leonore v. Behrend
+```
+
+## Citation
+
+Evangelische Gemeinde Frille (Kreis Minden), Kirchenbuchduplikate, section headed “Geborne und Getaufte im Jahr
+1835 Gemeinde Frille” [sic.], Nr. 8, Christine Friederike Marie Leonore Bleeke, born 20 Feb. 1835, baptized 1 March 1835,
+son of Carl Friedrich Bleeke and Marie Lui se geb. Niemann; Landesarchiv Nordrhein-Westfalen,
+Abteilung Ostwestfalen-Lippe (Detmold), Personenstandsarchiv Westfalen-Lippe; P 1 B-D, B 168 (Jg. 1815–1835);
+digital images, [image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3a%2f%2fwww.landesarchiv-nrw.de%2fdigitalisate%2fabt_ostwestfalen-lippe%2fp1%2fb%2f%7e001%2fb00168_01_1815-1830%2fmets.xml), Image 36 of 210 (accessed 18 September 2025).

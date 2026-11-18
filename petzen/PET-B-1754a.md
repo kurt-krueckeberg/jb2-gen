@@ -1,0 +1,53 @@
+# 1754 Anna Maria Weiland of Evesen Baptism
+
+## Family and Other Facts
+
+```{list-table}
+:header-rows: 1
+
+* - Father
+  - Residence
+  - Daughter
+  - Sponsor
+* - Herman Heinrich Weiland junior
+  - Evesen
+  - Anna Maria Weiland
+  - wife of Johann Steding
+```
+
+## Record
+
+The baptism of Anna Maria Weiland is on {ref}`image 190, right hand page <PET-B-1754a>` from the "Verzeichnis der Getauften und Konfirmierten (Register of
+Baptism and Confirmed of the Petzen Parish) 1641-1784".
+
+## Image 190
+
+```{figure} images/petzen-band1a-img190-right.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+```{div}
+:class: doc-text
+d 1ten Sept. Anna Maria Weilands des Herman Heinrich Weiland jun. zu Evesen
+Tochter getauft. Gev. Joh. Stedings Ehefrau.
+```
+
+```{div}
+:class: doc-text
+On 1 September, Anna Maria Weiland, daughter of Hermann Heinrich Weiland
+junior of Evesen, was baptized. The baptismal sponsor was the wife of
+Johann Steding.
+```
+
+## Citation
+
+(PET-B-1754a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/f25ea4a12b/> : 5 November 2023), path: Niedersachsen >
+Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen
+Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und
+Konfirmierten 1641-1784, image 190 of 322
+

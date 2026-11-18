@@ -1,0 +1,66 @@
+# 1770 Johann Heinrich Bleke Marriage
+
+## Family Relationship
+
+```{list-table} Marriage Information
+:header-rows: 1
+
+* - 
+  - Name
+  - Marriage
+    Date
+  - Locality (at time
+    of marriage)
+* - **Groom**
+  - Johann Heinrich Bleke
+  - Feb. 18 1770
+  - no. 11 Evesen
+* - **Bride**
+  - Anna Maria Elisabeth Möller
+  - Feb. 18 1770
+  - Heeßen
+```
+
+## Record
+
+The February 18, 1770, marriage of Johann Heinrich Bleke from no. Evesen to
+Anna Maria Elisabeth Moeller is on {ref}`image 58 <PET-M-1770a>` of the Petzen
+"Verzeichnis der Getrauten und Gestorbenen, 1641-1784" on
+[Archion.de](https://archion.de).
+
+## Image of Marriage Record
+
+```{figure} images/petzen-band1b-img61.jpg
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration
+
+```{div}
+:class: doc-text
+
+d 18t Febr ist copuliert Johann Heinrich Bleke aus Evesen no. 11 mit Anna
+Maria Elisabeth Moellern aus Heeßen.
+```
+
+Translation
+
+```{div}
+:class: doc-text
+
+On Feb. 18th Johann Heinrich Bleke from Evesen no. 11 married Anna
+Maria Elisabeth Möller from Heeßen.
+```
+
+## Citation
+
+(PET-M-1770a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/bbad2b69c3/> : 3 February 2026) , path: Niedersachsen > Niedersächsisches Landesarchiv >
+Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe >
+Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 58 of
+239
+

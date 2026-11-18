@@ -1,0 +1,130 @@
+# 1779 Carl Friderich Gottlieb Kruckeberg Baptism
+
+## Family Relationship and Other Facts
+
+Carl Friedrich Gottlieb Kruckeberg was baptized on April 18, 1779, in Petzen.
+
+```{list-table} Carl Friderich Gottlieb Kruckeberg
+:header-rows: 1
+
+* - Infant
+  - Father
+  - Mother
+  - Residence
+* - Carl Friderich Gottlieb
+  - Johann Heinrich Kruckeberg
+  - Anna Maria geb. Schekel
+  - Berenbusch
+```
+
+```{list-table} Nachtrag for Carl Friedrich Gottlieb Kruckeberg
+:header-rows: 1
+
+* - Death Date
+* - 13 May 1838
+```
+
+```{list-table} Godfather
+:header-rows: 1
+
+* - Name
+  - Occupation
+  - Residence
+* - Otto Rösener
+  - Hoffmeister
+  - Höcker’s estate
+```
+
+## Baptism Record
+
+Carl Friderich Gottlieb Kruckeberg’s (this is how the surname was spelled in
+his baptism entry) baptism is on {ref}`image 264, right page, entry no.  15 <PET-B-1779b>`
+from the  "database with images (Register of Baptism and Confirmed of the Petzen Parish,
+1641-1784)".
+
+
+```{figure} images/petzen-band1a-img264.jpg
+:class: image-override
+```
+
+:::{admonition} Meaning of Hofmeister and "au" Suffix in Höckersau
+
+A *Hofmeister* is defined in Thode’s German-English Genealogical Dictionary as:
+
+"adminstrator of a manorial estate; child's tutor"
+
+In the entry, Otto Rösener is the *Hofmeister auf der Hockersaue*. "Hocker
+Aue" also appears in image 274 in the baptism record of 
+[Johanna Sophie Charlotte Kruckebergen](PET-B-1782a.md). Her
+godmother **Johanna Sophie Margedalenna Wilkeningen** is described as: "von
+der Hockerers Aue".
+
+The suffix "-au" or "-aue" in German place names comes from the Old High German word ouwa, which meant:
+land near water, meadow, floodplain, or wetland.
+
+🟢 **Common meanings:**
+
+In place names, -au / -aue usually indicates:
+* A meadow along a river or stream
+* A low-lying, fertile area prone to flooding
+* A pasture or grassland near water
+
+🗺️ Examples:
+
+Dessau 
+: floodplain by the Mulde River
+
+Schwarzaue 
+: black meadow or lowland
+
+Sennelager-Aue 
+: meadow near Sennelager
+
+So, “Höckersau” likely meant something like “Höcker’s meadow/floodplain”, named after a person or family
+Höcker, or perhaps referencing a knoll or "hump" (Höcker) in the landscape.
+
+In this entry **"au"** occurs as the suffix in **Höckersau**, while in the
+[1782 Johanna Sophie Charlotte Krückeberg](PET-B-1782a.md)
+baptism record it appears as **aue**, **Höckersaue**.
+
+:::
+
+## Transliteration
+
+```{flat-table}
+:header-rows: 0
+:widths: auto
+
+* - 15)            
+    `+` 13 [Mai] 1838 
+  - d 18ten Apr:[of 1779] ist Carl Friderich Gottlieb Kruckeberg
+    des Johann Heinrich Krückebergs aus Berenbusch
+    mit seiner Ehefrau Anna Maria geb. Schekeln
+    erzeugter Sohn getauft. der Gevatter war
+    Otto Rösener Hoffmeister auf der Höckersau
+```
+## Translation
+
+```{flat-table}
+:header-rows: 0
+:widths: auto
+
+* - 15)         
+    `+`  13 [May] 1838  
+  -  On 18th April[of 1779] April Carl Friderich Gottlieb Kruckeberg was
+     baptized, the begotten son of Johann Heinrich Krückeberg from Berenbusch,
+     by his wife Anna Maria geb. Schekel
+     The godfather was Otto Rösener estate administrator[or: child's tutor]
+     on the Höckersau[Höcker's estate].
+```
+
+## Citation
+
+(PET-B-1779b)=
+
+"Archion Protestant Kirchenbücher Portal", database with
+images, *Archion* ([http:.md](http://www.archion.de/p/68d61bc772/): 31 October 2023),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis
+der Getauften und Konfirmierten 1641-1784, image 264 of 322
+

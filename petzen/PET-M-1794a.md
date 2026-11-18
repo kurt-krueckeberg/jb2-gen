@@ -1,0 +1,163 @@
+# 1794 Marie Philippine Krückeberg Marriage
+
+## Family Relationship and Other Facts
+
+```{list-table} 1794 Birth
+:header-rows: 1
+
+* - Daughter
+  - Father
+  - Address
+* - Marie Philippine Krückeberg
+  - Johann Heinrich Krückeberg
+  - no. 10 in Bärenbusch when she marries in 1812
+```
+
+```{list-table} Nachträge for Bride Marie Philippine Krückeberg
+:header-rows: 1
+
+* - Birth
+  - Death
+* - 1794 in Steinbergen
+  - 14 Feb. 1866
+```
+
+```{important}
+There is no birth record for Marie Philippine Krückeberg. Her birth is mentioned in
+the Nachtrag (addenda) that accompanies her 1812 marriage record, which states she was born in
+Steinbergen, although a search of the 1796 Steinbergen parish register did not list her 1794 birth.
+```
+
+## Record
+
+There is no separate birth record for the birth of Marie Philippine Krückeberg, rather her birth is mentioned in the Nachtrag (addenda) that
+accompanies her marriage record, which is on {ref}`image 27, on pages 48 and 49 <PET-B-1794a>` of the Petzen "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827".
+
+```{figure} images/petzen-band2-img27-left-2.jpg
+:class: image-override
+
+Page 48 portion
+```
+
+```{figure} images/petzen-band2-img27-right-2.jpg
+:class: image-override
+
+Page 49 portion
+```
+
+```{note}
+- **hinterlassen** — is a verb meaning: to leave something to somebody, to bequesth something, to leave somebody a legacy of
+something; to leave hind. As an adjective is can mean "bereaved" or "survivor (of someone deceased)". **hinterlassener** would
+be the adjective form used for a male survior: ein hinterlassener Sohn (a surviving son).
+- **Anerbe** — comes from **Anerbenrecht**, which is:
+  "inheritance law keeping farms intact (in northern Germany and old
+  Bavaria)." — from Thode’s German-English Genealogical Dictionary. In Schaumburg-Lippe, "Anerbe" had a
+  specific legal and social meaning rooted in German inheritance practices:
+  - Anerbe refers to the designated heir (often the eldest son, but not always) who
+    inherits the entire farm or family holding.
+  - This was part of the tradition of Anerbenrecht (hereditary right of
+    succession), which was common in rural parts of Germany, especially in northern
+    and central regions like Schaumburg-Lippe.
+  - Instead of dividing property among all children (which would fragment farms
+    into uselessly small plots), one heir (the "Anerbe") would inherit the holding
+    to keep it intact. Other siblings were typically given monetary settlements or other
+    smaller arrangements ("Abfindung").
+  - The **Anerbe** took on responsibility for supporting aging parents and sometimes
+    helping siblings until they could establish themselves elsewhere.
+  
+  In a Kirchenbuch entry, if someone is called an "Anerbe," it likely signals that:
+  - He was the successor to a farmstead or property.
+  - He had a certain social and financial standing in the village.
+  - His status could affect marriage prospects, taxes, and legal responsibilities.
+- **Benner** — cooper (Thode's).
+- **Leibzüchtner**(male)/**Leibzüchtnerin**(female) — Thode’s definition
+  is: "person on life estate". He defines Leibzucht as: "life annuity;
+  pension; life estate".
+
+See this more detailed explantion:
+[What is a Lieftucht/Leibzucht?](https://christofspannhoff.wordpress.com/2015/04/17/was-ist-eine-lieftuchtleibzucht/).
+```
+
+```{list-table} Marriage entry No. 3.
+:header-rows: 1
+
+* - Zahl
+  - Name, Stand, Religion
+    und Eltern des Bräutigams
+  - Name, Religion
+    Geburts u. Wohnort
+    der Braut
+  - Zeit und Ort
+    der Proclamation
+  - Zeit u. Ort
+    der Kopulation
+  - der kopu
+    lirende
+    Prädiger
+  - Kopulations
+    Zeugen
+  - Bemerkungen
+* - 3.
+  - Junggeselle Friedrich Wilhelm Raulfing, [Sohn] des verstorbenen Albert Raulfing n. 13
+    in Bärenbusch hinlerlaßener
+    Sohn und Anerbe Luth. Conf.
+    und jetzt 23 Jahre alt
+    geb. 13.7.88 gestr. 5.12.59
+  - Jungfrau Marie Philippine Krückebergs Tochter des Johann Heinrich Krückeberg Leib
+    züchters aus n.10 in Bären
+    busch. Luth. Conf. u. jetzt
+    18 Jahr alt. **geb. 1794 in Steinbergen**
+    gest 14.2.66
+  - Sind in der Kirche zu
+    Petzen proclamiert
+    d. 8ten 15ten 28[29?] März
+  - u. Kopuliert d. 10ten
+    Maÿ
+  - von dem zeitigen
+    Prädiger Stille
+  - in Gegenwart
+    der Beichentende
+    des Küster
+    Crömer
+  - [empty of text]
+```
+
+```{list-table} Marriage entry No. 3.
+:header-rows: 1
+
+* - No.
+  - Name, Occupation, Religion of Groom's Parents
+  - Name, Religion Birthplace and Residence
+    of the Bride
+  - Time and Place of the Proclamation
+  - Time and Place of the Marriage
+  - The officiating Minister
+  - Marriage Witnesses
+  - Remarks
+* - 3.
+  - Bachelor Friedrich Wilhelm Raulfing, surviving son and Anerbe of the late
+    Albert Raulfing n. 13 in Bärenbusch. Luth. Conf.  and now 23 years old
+    born 7/13/88 died 12/5/59
+  - Maiden Marie Philippine Krückeberg daughter of Johann Heinrich Krückeberg on life estate
+    from.10 in Bärenbusch. Luth. Conf. and now 18 years old. **born. 1794 in Steinbergen**
+    died 14.2.66
+  - Were announced in the church at Petzen proclamiert d. 8th, 15thn 28th March
+  - and married the 10th May
+  - by the current pastor Stille
+  - in presence of the Confessing
+    and of the parish clerk/sacristan Crömer
+  - [empty of text]
+```
+
+## Citation
+
+(PET-B-1794a)=
+
+"Archion Protestant Kirchenbücher Portal", database with images, *Archion*
+(<http://www.archion.de/p/e8f8a097b9/> : 4 October 2023), path:
+Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der
+Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen
+1785-1827 > Image 27 of 357
+

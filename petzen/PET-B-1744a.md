@@ -1,0 +1,91 @@
+# 1744 Johann Henrich Krückeberg Baptized
+
+## Family Relationships and Other Facts
+
+```{list-table} Johann Henrich Baptism
+:header-rows: 1
+
+* - Name
+  - Baptism Date
+* - Johann Henrich Krückeberg
+  - 19 Jan. 1744
+```
+
+```{list-table} Godfathers
+:header-rows: 1
+
+* - Name
+* - [Frerking/Frerkung?]
+* - Ahldags
+* - Weiland in Behrenbusch
+* - Watermann’s son
+```
+
+:::{admonition} Significance of Father’s Given Name Missing
+
+The baptism of a Johann Henrich Krückeberg does not list the father’s given names
+nor does it list the locality where he was born. Berenbusch is not
+mentioned. 
+
+:::
+
+## Record
+
+The January 19, 1744, baptism entry of Johann Henrich Krückeberg is found on {ref}`image 167, year 1744, fourth entry for January <PET-B-1744a>` of the Petzen *Verzeichnis der Getauften und Konfirmierten, 1641-1784*.
+
+```{figure} images/petzen-band1a-img167.jpg
+:class: image-override
+```
+
+```{note}
+Due to the poor quality of the text, it is unclear word precedes "Johann
+Henrich". Is it the first of three given names? It is might be
+**benahmsen**, with **benahmsen** likely just another form of **benamsen**,
+colloquial for *benennen*, "to name somebody or something after, or for".
+```
+
+## Transliteration 
+
+```{div}
+:class: doc-text
+Anno 1744
+
+[First three entries from 1744 ommitted...]
+
+d. 19 dito Krückeberg ein Söhnlein taufen laßen
+benamset Johann Henrich. Gevatter sind G[eorg]
+Frerkings Ahldags. Weiland in Behrenbusch. Watermanns
+Sohn von Nordholtz.
+```
+
+```{note}
+- **dito** means **ditto** and thus the month of **Janua** (Janmuary).
+- The verb **benahmset** is apparently **benamset**, whose inifinitive is benennt meaing **to name**.
+- There are a few undecipherable words are written very small, raised above the line
+that begin before the word 'Sohn'
+```
+
+## Translation
+
+```{div}
+:class: doc-text
+In the year 1744
+
+[First three entries from 1744 ommitted...]
+
+On the 19th of the same month [January], Krückeberg had a little son baptized,
+named Johann Henrich. The sponsors were Georg
+Frerking. Ahldag. Weiland in Berenbusch. Watermann’s
+son from Nordholz
+```
+
+## Citation
+
+(PET-B-1744a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/6ebd3448c0/>: 23 November
+2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getauften und Konfirmierten, 1641-1784 > Image 167 of 322
+

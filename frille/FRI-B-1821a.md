@@ -1,0 +1,106 @@
+# 1821 Christian Friederich Bleeke Birth
+
+This record is from the
+[Landesarchiv
+NRW Abteilung Ostwestfalen-Lippe / P 1 B-D / Kirchenbuchduplikate und Zivilstandsregister des Regierungsbezirks
+Minden, Nr. B 168 Jg. 1815-1830](https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_b09e24b8-82d3-4415-b28e-3f5eb4f9d820&mandant=10003).
+
+```{figure} images/jhp-bleeke/christian-friedrich-bleeke-1821-birth.png
+:class: image-override
+```
+
+## Transliteration and Translation
+
+Transliteration of page header: **Geborene und Getaufte im Jarhe 1821**.
+
+Translation of page header: **Born and Baptized in the year 1821**.
+
+```{list-table} Transliteration of Carl Friederich Bleeke 1821 Birth Record
+:header-rows: 1
+
+* - Nro.
+  - Tauf-Name
+    des Kindes.
+  - Tag und Stunde
+    der Geburt
+    in
+    Buchstaben und Ziffern.
+  - Ob es
+    ehelich
+    oder
+    unehelich.
+  - Vor- and Zuname
+    des Vaters,
+    auch Stand desselben
+  - Vor- und Zuname
+    der
+    Mutter.
+  - Wohnort
+    der
+    Eltern
+  - Tag
+    der
+    Taufe.
+  - Namen des Predigers,
+    der es getauft.
+  - Name der Taufzeugen
+* - 15
+  - Christian Friederich Bleeke
+  - der Siebensten (7) Maÿ
+    Nachmittags fünf (5)
+    Uhr zu Wietersheim N. 27
+  - ehelich
+  - Johann Heinrich
+    Bleeke Col. No. 27
+    zu Wietersheim
+  - Christine Marie
+    Schwier aus
+    Wietersheim
+  - Wietersheim
+    No. 27
+  - d 13 Maÿ
+  - Schütz
+  - Carl Friederich
+    Bleeke aus Leeteln
+```
+
+```{list-table} Translation of Carl Friederich Bleeke 1821 Birth Record
+:header-rows: 1
+
+* - No.
+  - Baptismal name of the child.
+  - Day and hour of birth (in words and numbers)
+  - Whether legitimate or illegitimate
+  - Given and surname of the father, also his Status
+  - Given and surname of the mother
+  - Residence of the Parents
+  - Day of baptism
+  - Name of the minister
+  - Baptismal witnesses
+* - 15
+  - Christian Friederich Bleeke
+  - seventh (7) of May
+    afternoon five (5) o’clock
+    in Wietersheim N. 27
+  - legitimate
+  - Johann Heinrich
+    Bleeke Colon, No. 27
+    at Wietersheim
+  - Christine Marie
+    Schwier from
+    Wietersheim
+  - Wietersheim
+    No. 27
+  - the 13 May
+  - Schütz
+  - Carl Friederich Bleeke from Leeteln
+```
+
+## Record
+
+“Evangelische Gemeinde Frille, Kreis Minden, Gebohrne im Jahre 1821 in Kirchspiel Frille” [sic],
+entry #15, Christian Friederich Bleeke, 7 May 1821, Kirchenbuchduplikat, B 168 (GHT 1815–1830),
+Personenstandsarchiv Westfalen-Lippe, Landesarchiv Nordrhein-Westfalen, Abteilung Ostwestfalen-Lippe, Detmold.
+Digital images: Landesarchiv NRW,
+[image viewer](https://dfg-viewer.de/show/?tx_dlf[id]=https%3a%2f%2fwww.landesarchiv-nrw.de%2fdigitalisate%2fabt_ostwestfalen-lippe%2fp1%2fb%2f%7e001%2fb00168_01_1815-1830%2fmets.xml)
+, image 80 (accessed 6 December 2025).

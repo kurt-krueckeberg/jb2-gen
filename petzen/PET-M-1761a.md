@@ -1,0 +1,60 @@
+# 1761 Johann Heinrich Krückeberg Marriage
+
+## Family Relationship
+
+```{list-table} June 14, 1761, Marriage Information
+:header-rows: 1
+
+* - 
+  - Name
+  - Marriage
+    Date
+  - Locality (at time
+    of marriage)
+* - **Groom**
+  - Johann Heinrich Kruckkeberg
+  - June 14, 1761
+  - Berenbusch
+* - **Bride**
+  - Anne Christine Elisabet Seeger
+  - June 14, 1761
+  - Evesen
+```
+
+## Record
+
+The June 14, 1761, marriage of Johann Henirch Krückeberg to Anne Christine Elisebet Seeger is on [image 52](PET-M-1761a.md),
+the top, right-hand page, of the Petzen " Verzeichnis der Getrauten und Gestorbenen 1641-1784".
+
+## Image of Marriage Record
+
+```{figure} images/petzen-band1b-img52.jpg
+:class: image-override
+```
+
+## Transliteration 
+
+```{div}
+:class: doc-text
+d. 14ten Junii Johann Heinrich Krückeberg aus Bernbusch mit Anne Christine Elisebet
+     Seeger aus Evesen copuliert
+```
+
+## Translation
+
+```{div}
+:class: doc-text
+The 14th June Johann Heinrich Krückeberg from Bernbusch married Anne Christine Elisebet
+     Seeger from Evesen
+```
+
+## Citation
+
+(PET-M-1761a)=
+
+"Archion Protestant Kirchenbücher Portal", database
+with images, *Archion* (<https://www.archion.de/p/ff12bc402d/> : 17 July
+2025), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher
+der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen >
+Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239
+
