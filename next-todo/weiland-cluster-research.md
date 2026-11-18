@@ -87,7 +87,7 @@ In connection with this table, Steve posed these questions in an email some time
 - Was Anne Catharine Drinkuth (above) from the Ober-Hahne farm as suggested by Reiner Eberhardt?
 - Was Heinrich Wilhelm illegitimate as suggested by the Petzen church record at Archion.de?
 
-See also the Lutheran is [bio for his son, Heinrich Wilehlm Weÿland](xref:imm#immanuel/DEC-BIO-Weiland).
+See also the Lutheran is [bio for his son, Heinrich Wilehlm Weÿland](xref:immanuel/immanuel/dec-bio-weiland).
 
 I can also use  Beverly Jenkins family document, which is also listed under
 Sources below.

@@ -8,7 +8,6 @@ project:
   references:
     nla: https://nla.krueckeberg.org/
     ancestry: https://anc.krueckeberg.org/
-    imm: https://imm.krueckeberg.org/
     immanuel: https://imm.krueckeberg.org/
   plugins:
     - flat-table.mjs
