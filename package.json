@@ -1,0 +1,13 @@
+{
+  "name": "jb2-gen",
+  "private": true,
+  "scripts": {
+    "build": "myst build --html",
+    "start": "myst start",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "mystmd": "1.13.0",
+    "wrangler": "^4"
+  }
+}
