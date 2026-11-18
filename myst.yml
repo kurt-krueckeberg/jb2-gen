@@ -17,7 +17,6 @@ project:
     - README.md
     - todo.md
     - code/**
-    - vps-build/**
   exports:
     - format: typst
       template: plain_typst_book
