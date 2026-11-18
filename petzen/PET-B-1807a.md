@@ -18,7 +18,7 @@
 ```{important}
 **†** — Carl Friedrich Krückeberg’s mother’s maiden name was **Werkmeister**.
 It was not **Bleeke**. Part of the explanation is
-[here](xref:ancestry#ancestry/proof-arg-philippine-eleonore-werkmeister).
+[here](xref:ancestry/ancestry/proof-arg-philippine-eleonore-werkmeister).
 
 The mother of Philippine Eleonore Werkmesiter was Ilse Marie geb. Möller, who
 had two marriages. The first was to Johann Heinrich Bleke, on 18
@@ -218,7 +218,7 @@ Translation of Header for Pages 186 and 187
 
 ```{note}
 As mentioned above, the maiden name **Bleeken** is in error in the church register. It should be **Werkmeister**. See the explanation
-[here](xref:ancestry#ancestry/proof-arg-philippine-eleonore-werkmeister).
+[here](xref:ancestry/ancestry/proof-arg-philippine-eleonore-werkmeister).
 ```
 
 ```{list-table} Carl Friedrich Krückeberg Baptism
