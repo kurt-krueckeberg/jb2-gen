@@ -79,26 +79,10 @@ python3 -m http.server 8000 -d _build/html   # then open http://localhost:8000
 
 The site is a Cloudflare Worker named `jb2-gen` that serves the static HTML in
 `_build/html` (see `wrangler.jsonc`). Cloudflare builds it from this repository
-on every push to `main`:
-
-- `package.json` pins `mystmd` and `wrangler`, so the build needs only Node.js,
-  not Python. `npm run build` runs `myst build --html`.
-- `.node-version` selects Node.js 22 in the Cloudflare build.
-
-Set up once in the Cloudflare dashboard: **Workers & Pages → Create → Import a
-repository**, choose `kurt-krueckeberg/jb2-gen`, and set:
+on every push to `main`, with these settings (Worker → Settings → Build):
 
 | Setting | Value |
 |---|---|
-| Project name | `jb2-gen` (must match `name` in `wrangler.jsonc`) |
-| Build command | `npm run build` |
+| Build command | `pip install mystmd && myst build --html` |
 | Deploy command | `npx wrangler deploy` |
 | Root directory | `/` |
-
-To deploy from your own computer instead:
-
-```bash
-npm install
-npm run build
-npx wrangler deploy
-```
